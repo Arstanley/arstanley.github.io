@@ -10,10 +10,10 @@ redirect_from:
 
  Welcome! I am a junior at the University of Notre Dame studying mathematics and computing. I plan to graduate in 2021. Currently, I am working in [the Notre Dame DM2 Lab](http://www.meng-jiang.com/lab.html) with [Prof. Jiang](http://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong](https://www3.nd.edu/~dwang5/) and [Prof. Do](https://scholar.harvard.edu/synho/home) from Harvard Medical School. 
 
- Research
- ======
+Research
+======
  I am interested in general machine learning and data mining with a special interest in causal learning. I have also worked on topics in computer vision project.
 
- Publications
- ======
+Publications
+======
  Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
