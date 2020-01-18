@@ -16,4 +16,4 @@ Research
 
 Publications
 ======
- Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
+ * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
