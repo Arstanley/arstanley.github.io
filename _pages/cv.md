@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can kindly find my attached CV [here]("http://academicpages.github.io/files/spring_2020.pdf")
+You can kindly find my attached CV [here]("http://arstanley.github.io/files/spring_2020.pdf")
