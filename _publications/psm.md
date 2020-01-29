@@ -1,5 +1,5 @@
 ---
-title: "Improving Generalizability of Fake News Detection Methods using Propensity Score Matching". 
+title: "Improving Generalizability of Fake News Detection Methods using Propensity Score Matching" 
 collection: publications
 permalink: /publication/psm
 date: 2020-01-18
