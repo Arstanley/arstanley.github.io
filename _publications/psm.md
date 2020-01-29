@@ -3,6 +3,7 @@ title: "Improving Generalizability of Fake News Detection Methods using Propensi
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2020-01-18
+excerpt: 'Study of causal relationship in Fake News Detection'
 venue: 'ICWSM'
 paperurl: 'http://academicpages.github.io/files/psm_AAAI.pdf'
 ---
