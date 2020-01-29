@@ -1,7 +1,7 @@
 ---
 title: "Improving Generalizability of Fake News Detection Methods using Propensity Score Matching". 
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/psm
 date: 2020-01-18
 excerpt: 'Study of causal relationship in Fake News Detection'
 venue: 'ICWSM'

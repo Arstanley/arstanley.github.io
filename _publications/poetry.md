@@ -1,7 +1,7 @@
 ---
 title: "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/poetry
 excerpt: 'A novel method for poetry recommendation with visual inputs'
 date: 2019-08-11
 venue: 'ASONAM'
