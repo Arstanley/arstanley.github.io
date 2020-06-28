@@ -12,7 +12,7 @@ redirect_from:
 
 Research
 ======
- I am interested in general machine learning and data mining with a special interest in causal learning. I have also worked on topics in computer vision project.
+ I am interested in general machine learning and social computing. Specifically, on knowledge graphs and causal learning. I have also worked on topics in computer vision project.
 
 Publications
 ======
