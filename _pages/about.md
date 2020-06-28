@@ -12,10 +12,18 @@ redirect_from:
 
 Research
 ======
- I am interested in general machine learning and social computing. Specifically, on knowledge graphs and causal learning. I have also worked on topics in computer vision project.
+ I am interested in general machine learning and social computing. Specifically, on knowledge graphs and causal learning. I have also worked on topics in computer vision project. 
 
 Publications
 ======
- * **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. Submitted to International Conference on Web and Social Media (ICWSM) 2020 (Poster)
+ * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media". _Submitted to the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
+
+ * **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. _arxiv_
  
  * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
+
+More About Me
+======
+ In my spare time, I enjoy reading philosophies and economics and playing basketball. I also casually write algorithmic future and equities trading strategies for personal investment.
+
+
