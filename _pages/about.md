@@ -16,7 +16,7 @@ Research
 
 Publications
 ======
- * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media". _Submitted to the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
+ * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Early Fraud Detection With Augmented Graph Learning". _Submitted to the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
 
  * **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. _arxiv_
  
