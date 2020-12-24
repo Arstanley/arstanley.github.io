@@ -12,7 +12,7 @@ redirect_from:
 
 Research
 ======
- I am interested in general machine learning and social computing. Specifically, on graphs learning and causal learning. I have also worked on several computer vision project. 
+ I am interested in general machine learning and social computing, especially on graphs learning and natural language processing. I have also worked on several computer vision project. 
 
 What's New
 ======
