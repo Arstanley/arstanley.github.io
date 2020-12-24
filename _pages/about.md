@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
- Welcome! I am a senior at the University of Notre Dame studying mathematics and computing. I plan to graduate in 2021. Currently, I am working in [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong](https://www3.nd.edu/~dwang5/) and [Prof. Do](https://scholar.harvard.edu/synho/home) from Harvard Medical School. Please kindly find my attached CV [here](https://arstanley.github.io/files/spring_2020.pdf)
+ Welcome! I am a senior at the University of Notre Dame studying mathematics and computing. I plan to graduate in 2021. Currently, I am working in [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong](https://www3.nd.edu/~dwang5/) in the Social Sensing Lab. Please kindly find my attached CV [here](https://arstanley.github.io/files/spring_2020.pdf)
 
 Research
 ======
  I am interested in general machine learning and social computing. Specifically, on graphs learning and causal learning. I have also worked on topics in computer vision project. 
+
+What's New
+======
+I am 
 
 Publications
 ======
@@ -24,6 +28,6 @@ Publications
 
 More About Me
 ======
- In my spare time, I enjoy reading philosophies and economics, and I also play basketball for intramural teams at Notre Dame. I also casually write algorithmic future and equities trading strategies for personal investment.
+ In my spare time, I enjoy reading, and I also play intramural basketball at Notre Dame. I am also produce music in my free time. 
 
 
