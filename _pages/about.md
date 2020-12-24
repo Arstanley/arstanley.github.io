@@ -30,11 +30,11 @@ Publications
 ======
  * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). ["Early Fraud Detection With Augmented Graph Learning"](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf). Accepted by _the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
  
- * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). ["Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media"](https://ieeexplore.ieee.org/document/9073288). _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
+ * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). ["Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media"](https://ieeexplore.ieee.org/document/9073288). Accepted by the _Advances in Social Analysis and Mining(ASONAM) 2019_ as oral presentation.
 
 More About Me
 ======
  In my spare time, I enjoy playing basketball. I also produce music in my free time. 
- 
+
 
 
