@@ -16,18 +16,24 @@ Research
 
 What's New
 ======
-I am 
+* December 2020: I am selected for honorable mention for the Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award for 2021!
+* November 2020: One paper was uploaded on Arxiv: "Early Anomaly Detection by Learning and Forecasting Behavior."
+* August 2020: One paper was accepted by the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD'20).
+
+Preprints
+=====
+ * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Early Anomaly Detection by Learning and Forecasting Behavior". _arxiv preprint_
+
+* **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. _arxiv preprint_
 
 Publications
 ======
- * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Early Fraud Detection With Augmented Graph Learning". _Submitted to the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
-
- * **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. _arxiv preprint_
+ * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Early Fraud Detection With Augmented Graph Learning". Accepted by the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
  
  * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
 
 More About Me
 ======
- In my spare time, I enjoy reading, and I also play intramural basketball at Notre Dame. I am also produce music in my free time. 
+ In my spare time, I enjoy playing basketball. I am also a music producer in my free time. 
 
 
