@@ -24,16 +24,17 @@ Preprints
 =====
  * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). ["Early Anomaly Detection by Learning and Forecasting Behavior"](https://https://arxiv.org/abs/2010.10016). _arxiv preprint_
 
-* **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). ”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”. _arxiv preprint_
+* **Bo Ni**, ZhiChun Guo, Jianing Li, Meng Jiang. (2020). [”Improving Generalizability of Fake News Detection Methods using Propensity Score Matching”](https://arxiv.org/abs/2002.00838). _arxiv preprint_
 
 Publications
 ======
- * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). "Early Fraud Detection With Augmented Graph Learning". Accepted by _the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
+ * **Bo Ni**, Tong Zhao, Wenhao Yu, Meng Jiang. (2020). ["Early Fraud Detection With Augmented Graph Learning"](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf). Accepted by _the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)_
  
- * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). "Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media." _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
+ * Daniel Yue Zhang, **Bo Ni**, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang.(2019). ["Through The Eyes of A Poet: Classical Poetry Recommendation with Visual Input on Social Media"](https://ieeexplore.ieee.org/document/9073288). _Advances in Social Analysis and Mining(ASONAM) 2019 Oral_
 
 More About Me
 ======
- In my spare time, I enjoy playing basketball. I am also a music producer in my free time. 
+ In my spare time, I enjoy playing basketball. I also produce music in my free time. 
+ 
 
 
