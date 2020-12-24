@@ -16,7 +16,7 @@ Research
 
 What's New
 ======
-* December 2020: I am selected for honorable mention for the Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award for 2021!
+* December 2020: I am selected for **honorable mention for the Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award** for 2021!
 * November 2020: One paper was uploaded on Arxiv: "Early Anomaly Detection by Learning and Forecasting Behavior"!
 * August 2020: One paper was accepted by the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD'20)!
 
