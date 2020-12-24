@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Welcome! I am a senior at the University of Notre Dame studying mathematics and computing. I plan to graduate in 2021. Currently, I am working in [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong](https://www3.nd.edu/~dwang5/) in the Social Sensing Lab. Please kindly find my attached CV [here](https://arstanley.github.io/files/spring_2020.pdf)
+ Welcome! I am a senior at the University of Notre Dame studying mathematics and computing. I plan to graduate in 2021. Currently, I am working in [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Meng Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong Wang](https://www3.nd.edu/~dwang5/) in the Social Sensing Lab. Please kindly find my attached CV [here](https://arstanley.github.io/files/spring_2020.pdf)
 
 Research
 ======
