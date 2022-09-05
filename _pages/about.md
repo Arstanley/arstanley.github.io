@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Welcome! I am a software development engineer at Amazon Web Service. I graduated from the University of Notre Dame with a honor Bachelor degree in 2021, where I worked at [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Meng Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong Wang](https://www3.nd.edu/~dwang5/) in [the Notre Dame Social Sensing Lab](https://www3.nd.edu/~sslab/). Please kindly find my attached CV [here](https://arstanley.github.io/files/Resume.pdf)
+ Welcome! I am a software development engineer at Amazon Web Service. I graduated from the University of Notre Dame with a honor Bachelor degree in 2021, where I worked at [the Notre Dame DM2 Lab](https://www.meng-jiang.com/lab.html) with [Prof. Meng Jiang](https://www.meng-jiang.com/) on data mining and anomaly detection. In the past, I am fortunate to have worked with [Prof. Dong Wang](https://www3.nd.edu/~dwang5/) in [the Notre Dame Social Sensing Lab](https://www3.nd.edu/~sslab/). Please kindly find my attached CV [here](https://arstanley.github.io/files/CV_22-23).
 
 Research
 ======
@@ -16,6 +16,7 @@ Research
 
 What's New
 ======
+* August 2022: Athena's Parameterized Query API support is GA! Learn more about the project [here](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/).
 * Octoboer 2021: I am joining Amazon Web Service as an Software Development Engineer!
 * August 2021: One paper was accepted by the ACM International Conference on Information and Knowledge Management (CIKM'21)! 
 * December 2020: I am selected for **honorable mention for the Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award** for 2021!
@@ -36,7 +37,4 @@ Publications
 
 More About Me
 ======
- In my spare time, I enjoy playing basketball. I also produce music in my free time. 
-
-
-
+ In my spare time, I enjoy playing basketball and play poker.
