@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can kindly find my attached CV [here](https://arstanley.github.io/files/CV_22-23).
+You can kindly find my attached CV [here](https://arstanley.github.io/files/CV_22-23.pdf).
