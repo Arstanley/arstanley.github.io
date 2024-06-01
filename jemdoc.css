@@ -7,22 +7,16 @@ table#tlayout {
 }
 
 body {
-	/* background: white; */
-	background: #f3f3ef;
-	/* font-family: "Lucida Console", Monaco, monospace; */
-	/* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+	background: #e0f7fa;
 	font-family: 'Avenir', sans-serif;
-	/* font-family: Arial, Helvetica, sans-serif; */
-	/* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-	/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 	font-size: 17px;
 	padding-bottom: 8px;
 	margin: 0;
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
+	background: #e0f2f1;
+	border: 1px solid #b2dfdb;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
@@ -34,7 +28,7 @@ body {
 }
 
 #layout-menu td {
-	background: #f4f4f4;
+	background: #e0f2f1;
 	vertical-align: top;
 }
 
@@ -44,12 +38,10 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
 	border: none;
-	/* background: white; */
-	background: #f3f3ef;
+	background: #e0f7fa;
 	text-align: left;
 	vertical-align: top;
 	min-width: 800px;
-	/* main content width */
 	width: 900px;
 }
 
@@ -59,7 +51,7 @@ body {
 }
 
 tt {
-	background: #ffffdd;
+	background: #e0f2f1;
 }
 
 pre, tt {
@@ -69,21 +61,20 @@ pre, tt {
 
 /* color for hyperlinks */
 a, a > tt {
-	/* color: #224b8d; */
-	color: #40739e;
+	color: #00796b;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px gray dotted;
+	border-bottom: 1px #004d40 dotted;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
-	border-bottom: 1px gray solid;
+	color: #004d40;
+	border-bottom: 1px #004d40 solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	color: #004d40;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -91,11 +82,12 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid #004d40;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
 	font-weight: bold;
+	color: #004d40;
 }
 
 div.menu-item {
@@ -106,7 +98,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	border-bottom: 3px double #004d40;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -131,13 +123,13 @@ strong {
 
 
 h1, h2, h3 {
-	color: #C99700;
+	color: #004d40;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #aaaaaa;
+	border-bottom: 1px solid #004d40;
 }
 
 h1 {
@@ -172,14 +164,14 @@ pre {
 
 div#footer {
 	font-size: small;
-	border-top: 1px solid #c0c0c0;
+	border-top: 1px solid #004d40;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #c0c0c0;
+	color: #004d40;
 }
 
 div#footer a {
-	color: #80a0b0;
+	color: #004d40;
 }
 
 div#footer-text {
@@ -203,7 +195,7 @@ dl {
 }
 
 dd {
-	color: #222222;
+	color: #004d40;
 }
 
 dd > *:first-child {
@@ -253,18 +245,18 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #cd7b62;
+	color: #004d40;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
 
 div.blockcontent {
-	border: 1px solid silver;
+	border: 1px solid #004d40;
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #e0f2f1;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -284,30 +276,30 @@ div.infoblock p + p {
 }
 
 div.codeblock > div.blockcontent {
-	background: #f6f6f6;
+	background: #e0f7fa;
 }
 
 span.pycommand {
-	color: #000070;
+	color: #00796b;
 }
 
 span.statement {
-	color: #008800;
+	color: #004d40;
 }
 span.builtin {
-	color: #000088;
+	color: #004d40;
 }
 span.special {
-	color: #990000;
+	color: #004d40;
 }
 span.operator {
-	color: #880000;
+	color: #004d40;
 }
 span.error {
-	color: #aa0000;
+	color: #d32f2f;
 }
 span.comment, span.comment > *, span.string, span.string > * {
-	color: #606060;
+	color: #616161;
 }
 
 @media print {
@@ -353,7 +345,7 @@ img.eqwl {
 }
 
 table {
-	border: 2px solid black;
+	border: 2px solid #004d40;
 	border-collapse: collapse;
 }
 
@@ -362,7 +354,7 @@ td {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	text-align: center;
-	border: 1px solid gray;
+	border: 1px solid #004d40;
 }
 
 table + table {
@@ -371,7 +363,7 @@ table + table {
 
 tr.heading {
 	font-weight: bold;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid #004d40;
 }
 
 img {
@@ -382,4 +374,3 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
-
