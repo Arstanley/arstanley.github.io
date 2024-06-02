@@ -10,6 +10,10 @@ mv jemdocs/*.html .
 # Updating the permissions
 chmod 644 *.html
 
+
+line=6
+gsed -i "${line}i <link rel="icon" href="images/image.png" type="image/x-icon">" index.html
+gsed -i "${line}i <link rel="icon" href="/images/image.png" type="image/x-icon">" publications.html
 # Adding the clustermap to the pages
 line=28
 gsed -i "${line}i <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=JhWQ5Kxw7btvmFqhcPNJNG7_TOfJtp93NMzhWfNrnm0'></script>" index.html
