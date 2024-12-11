@@ -2,12 +2,20 @@
 = Bo Ni - Publications
 
 == Preprints
+. [https://arxiv.org/html/2410.16882v1 Large Language Model-based Augmentation for Imbalanced Node Classification on Text Attributed Graphs.]\n
+*Bo Ni*, Yu Wang, Leyao Wang, Yuying Zhao, Tyler Derr. \n
 . [https://arxiv.org/abs/2405.17602 Augmenting Textual Generation via Topology Aware Retrieval.] \n
 Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, *Bo Ni*, Xin Wang, Ryan Rossi, Tyler Derr. \n
 . [https://arxiv.org/abs/2002.00838 Improving Generalizability of Fake News Detection Methods using Propensity Score Matching.] \n
 *Bo Ni*, ZhiChun Guo, Jianing Li, Meng Jiang. \n
 
 == Conferences
+. [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective.]
+*Bo Ni*, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. 
+In Proceedings of ACM International Conference on Information and Knowledge Management (CIKM), 2024
+. [https://dl.acm.org/doi/10.1145/3627673.3679746 Topology-aware Retrieval Augmentation for Text Generation.]
+Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, *Bo Ni*, Xin Wang, Ryan Rossi, Tyler Derr. 
+In Proceedings of ACM International Conference on Information and Knowledge Management (CIKM), 2024
 . [https://arxiv.org/pdf/2010.10016.pdf Action Sequence Augmentation for Early Graph-based Anomaly Detection.]
 *Bo Ni*, Tong Zhao, Wenhao Yu, Meng Jiang.
 In Proceedings of ACM International Conference on Information and Knowledge Management (CIKM), 2021
