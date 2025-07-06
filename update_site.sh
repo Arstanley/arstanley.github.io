@@ -1,7 +1,7 @@
-~/Downloads/jemdoc_mathjax-master/jemdoc MENU
+~/Downloads/jemdoc_mathjax/jemdoc MENU
 for file in jemdocs/*.jemdoc; do
     echo "updating $file"
-    ~/Downloads/jemdoc_mathjax-master/jemdoc $file
+    ~/Downloads/jemdoc_mathjax/jemdoc $file
 done
 
 # Moving html files
