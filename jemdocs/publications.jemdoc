@@ -12,6 +12,12 @@ Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, *Bo Ni*, Xin Wang, Ry
 *Bo Ni*, ZhiChun Guo, Jianing Li, Meng Jiang. \n
 
 == Conferences
+. [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks.] \n
+*Bo Ni*, Haowei Fu, Han Xu, Kunpeng Liu, Dan Lin, Tyler Derr. \n
+In Findings of The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026 \n
+. [https://hal.science/hal-05217179/ Large Language Models for Conversational User Simulation: A Comprehensive Survey.] ([https://github.com/Arstanley/Awesome-LLM-Conversation-Simulation code]) \n
+*Bo Ni*, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi. \n
+In Proceedings of The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026 \n
 . [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective.]
 *Bo Ni*, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. 
 In Proceedings of ACM International Conference on Information and Knowledge Management (CIKM), 2024
